@@ -1,0 +1,33 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 172.31.21.181
+Extension host agent listening on 34614
+
+
+[02:54:35] Extension host agent started.
+[02:54:39] [127.0.0.1][f7f51697][ManagementConnection] New connection established.
+[02:54:39] [127.0.0.1][b8c4b741][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[02:54:39] [127.0.0.1][b8c4b741][ExtensionHostConnection] <1453> Launched Extension Host Process.
+[02:55:42] [127.0.0.1][f7f51697][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:55:43] [127.0.0.1][b8c4b741][ExtensionHostConnection] <1453> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[02:55:43] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[02:55:44] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[02:55:44] Cancelling previous shutdown timeout
+[02:55:44] [127.0.0.1][9741388a][ManagementConnection] New connection established.
+[02:55:44] [127.0.0.1][fc909001][ExtensionHostConnection] New connection established.
+[02:55:44] [127.0.0.1][fc909001][ExtensionHostConnection] <1542> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[03:00:44] New EH opened, aborting shutdown
